@@ -29,7 +29,7 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-## Transferência de aprendizagem começando de uma rede existente
+## Treinamento de Redes Neurais com Transfer Learning
 
 
  > ℹ️ **NOTE:** Este repositório foi desenvolvido durante o BootCamp BairesDev - Machine Learning Practitioner em parceria com a [DIO](https://dio.me)
