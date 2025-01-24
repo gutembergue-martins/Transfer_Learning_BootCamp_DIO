@@ -3,7 +3,7 @@
 
 <p align="center">
 <img 
-    src=".github/imagem-github-planilha.png"
+    src="image/img_programmer_github.png"
     width="300"
 />
 </p>
