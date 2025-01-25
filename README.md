@@ -51,7 +51,7 @@ Este projeto tem como objetivo criar e compreender como proceder para treinar um
 
 ## 🛠️ Instruções de execução
 
-As instruções para a realização da construção desta planilha foi difundida nas aulas do referido Bootcamp da DIO, onde foi disponibilizado orientações no repositório do Google Colab através do link: https://colab.research.google.com/github/kylemath/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb#scrollTo=vIwMY_ZXYoax
+As instruções para a realização deste projeto foram difundidas nas aulas do referido Bootcamp da DIO, onde foi disponibilizado orientações no repositório do Google Colab através do link: https://colab.research.google.com/github/kylemath/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb#scrollTo=vIwMY_ZXYoax
 
 ## Descrição
 <div align="justify">
